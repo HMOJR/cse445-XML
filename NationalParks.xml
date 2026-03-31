@@ -16,7 +16,7 @@
 	</NationalPark>
 
 
-	<NationalPark Rating="4.5">
+	<NationalPark>
 		<Name>North Cascades</Name>
 		<Phone>777-777-7777</Phone>
 		<Address NearestAirport="Washington">
