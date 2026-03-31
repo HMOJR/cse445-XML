@@ -12,8 +12,8 @@
 			<City>Grand Canyon</City>
 			<State>AZ</State>
 			<Zip>86023</Zip>
-		</Address>"
-	</NationalPark>"
+		</Address>
+	</NationalPark>
 
 
 	<NationalPark Rating="4.5">
@@ -25,8 +25,8 @@
 			<City>Washington</City>
 			<State>WA</State>
 			<Zip>86023</Zip>
-		</Address>"
-	</NationalPark>"
+		</Address>
+	</NationalPark>
 
 	<NationalPark Rating="4.1">
 		<Name>Death Valley</Name>
@@ -40,8 +40,8 @@
 			<City>California</City>
 			<State>CA</State>
 			<Zip>86023</Zip>
-		</Address>"
-	</NationalPark>"
+		</Address>
+	</NationalPark>
 
 	<NationalPark Rating="4.6">
 		<Name>Everglades</Name>
@@ -53,8 +53,8 @@
 			<City>Florida</City>
 			<State>FL</State>
 			<Zip>86023</Zip>
-		</Address>"
-	</NationalPark>"
+		</Address>
+	</NationalPark>
 
 	<NationalPark Rating="4.8">
 		<Name>Glacier Bay</Name>
@@ -65,8 +65,8 @@
 			<City>AK</City>
 			<State>AK</State>
 			<Zip>86023</Zip>
-		</Address>"
-	</NationalPark>"
+		</Address>
+	</NationalPark>
 
 	<NationalPark Rating="4.1">
 		<Name>Great Sand Dunes</Name>
@@ -77,8 +77,8 @@
 			<City>CO</City>
 			<State>CO</State>
 			<Zip>86023</Zip>
-		</Address>"
-	</NationalPark>"
+		</Address>
+	</NationalPark>
 
 	<NationalPark Rating="4.7">
 		<Name>HAWAI'I Volcanoes</Name>
@@ -89,8 +89,8 @@
 			<City>Hawaii</City>
 			<State>Hawaii</State>
 			<Zip>86023</Zip>
-		</Address>"
-	</NationalPark>"
+		</Address>
+	</NationalPark>
 
 	<NationalPark Rating="4.8">
 		<Name>Hot Springs</Name>
@@ -102,8 +102,8 @@
 			<City>AR</City>
 			<State>AR</State>
 			<Zip>86023</Zip>
-		</Address>"
-	</NationalPark>"
+		</Address>
+	</NationalPark>
 
 	<NationalPark Rating="4.5">
 		<Name>Joshua Tree</Name>
@@ -115,8 +115,8 @@
 			<City>California</City>
 			<State>Ca</State>
 			<Zip>86023</Zip>
-		</Address>"
-	</NationalPark>"
+		</Address>
+	</NationalPark>
 
 	<NationalPark Rating="4.3">
 		<Name>Mammoth Cave</Name>
@@ -129,8 +129,8 @@
 			<City>KFC</City>
 			<State>KY</State>
 			<Zip>86023</Zip>
-		</Address>"
-	</NationalPark>"
+		</Address>
+	</NationalPark>
 
 </NationalParks>
 
