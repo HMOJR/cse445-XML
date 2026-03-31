@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--First Error, wrong root element name missing (s)-->
+<NationalPark> 
+
+	<NationalPark Rating="4.9">
+		<Name>Grand Canyon</Name>
+		
+		<!--Fifth Error, duplicate names-->
+		<Name>Grand Canyon</Name>
+
+		<Phone>456-765-2345</Phone>
+		<Address NearestAirport="Flagstaff">
+			<Number>8</Number>
+			<Street>S Entrance Road</Street>
+			<City>Grand Canyon</City>
+			<State>AZ</State>
+			<Zip>86023</Zip>
+		</Address>"
+	</NationalPark>"
+
+	<!--Second Error, req att missing-->
+	<NationalPark>
+		<Name>Northern Cascades</Name>
+
+		<!--Third Error, no phone element-->
+
+		<!--Fourth Error, address no closing tag-->
+		<Address NearestAirport="Flagstaff">
+			<Number>1</Number>
+			<Street>N Entrance Road</Street>
+			<City>Washington</City>
+			<State>WA</State>
+			<Zip>86023</Zip>
+	</NationalPark>
+
+
+</NationalPark>
+

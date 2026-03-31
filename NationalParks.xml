@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<NationalParks>
+
+	<NationalPark Rating="4.9">
+		<Name>Grand Canyon</Name>
+		<Phone>688-999-9999</Phone>
+		<Phone>866-888-8877</Phone>
+		<Address NearestAirport="Flagstaff">
+			<Number>8</Number>
+			<Street>S Entrance Road</Street>
+			<City>Grand Canyon</City>
+			<State>AZ</State>
+			<Zip>86023</Zip>
+		</Address>"
+	</NationalPark>"
+
+
+	<NationalPark Rating="4.5">
+		<Name>North Cascades</Name>
+		<Phone>777-777-7777</Phone>
+		<Address NearestAirport="Washington">
+			<Number>1</Number>
+			<Street>N Entrance Road</Street>
+			<City>Washington</City>
+			<State>WA</State>
+			<Zip>86023</Zip>
+		</Address>"
+	</NationalPark>"
+
+	<NationalPark Rating="4.1">
+		<Name>Death Valley</Name>
+		<Phone>676-676-7676</Phone>
+		<Phone>767-767-6767</Phone>
+		<Phone>654-321-0123</Phone>
+		<Phone>444-444-4444</Phone>
+		<Address NearestAirport="California">
+			<Number>2</Number>
+			<Street>E Entrance Road</Street>
+			<City>California</City>
+			<State>CA</State>
+			<Zip>86023</Zip>
+		</Address>"
+	</NationalPark>"
+
+	<NationalPark Rating="4.6">
+		<Name>Everglades</Name>
+		<Phone>688-222-2222</Phone>
+		<Phone>777-777-7775</Phone>
+		<Address NearestAirport="Florida">
+			<Number>3</Number>
+			<Street>W Entrance Road</Street>
+			<City>Florida</City>
+			<State>FL</State>
+			<Zip>86023</Zip>
+		</Address>"
+	</NationalPark>"
+
+	<NationalPark Rating="4.8">
+		<Name>Glacier Bay</Name>
+		<Phone>999-999-8888</Phone>
+		<Address NearestAirport="AK">
+			<Number>4</Number>
+			<Street>E Entrance Road</Street>
+			<City>AK</City>
+			<State>AK</State>
+			<Zip>86023</Zip>
+		</Address>"
+	</NationalPark>"
+
+	<NationalPark Rating="4.1">
+		<Name>Great Sand Dunes</Name>
+		<Phone>877-888-7788</Phone>
+		<Address NearestAirport="CO">
+			<Number>5</Number>
+			<Street>S Entrance Road</Street>
+			<City>CO</City>
+			<State>CO</State>
+			<Zip>86023</Zip>
+		</Address>"
+	</NationalPark>"
+
+	<NationalPark Rating="4.7">
+		<Name>HAWAI'I Volcanoes</Name>
+		<Phone>888-898-9998</Phone>
+		<Address NearestAirport="Hawaii">
+			<Number>6</Number>
+			<Street>W Entrance Road</Street>
+			<City>Hawaii</City>
+			<State>Hawaii</State>
+			<Zip>86023</Zip>
+		</Address>"
+	</NationalPark>"
+
+	<NationalPark Rating="4.8">
+		<Name>Hot Springs</Name>
+		<Phone>999-777-7777</Phone>
+		<Phone>999-669-872</Phone>
+		<Address NearestAirport="AR">
+			<Number>7</Number>
+			<Street>N Entrance Road</Street>
+			<City>AR</City>
+			<State>AR</State>
+			<Zip>86023</Zip>
+		</Address>"
+	</NationalPark>"
+
+	<NationalPark Rating="4.5">
+		<Name>Joshua Tree</Name>
+		<Phone>222-444-5555</Phone>
+		<Phone>555-222-3333</Phone>
+		<Address NearestAirport="California">
+			<Number>0</Number>
+			<Street>N Entrance Road</Street>
+			<City>California</City>
+			<State>Ca</State>
+			<Zip>86023</Zip>
+		</Address>"
+	</NationalPark>"
+
+	<NationalPark Rating="4.3">
+		<Name>Mammoth Cave</Name>
+		<Phone>777-775-5577</Phone>
+		<Phone>454-555-3333</Phone>
+		<Phone>644-222-4444</Phone>
+		<Address NearestAirport="KFC">
+			<Number>9</Number>
+			<Street>W Entrance Road</Street>
+			<City>KFC</City>
+			<State>KY</State>
+			<Zip>86023</Zip>
+		</Address>"
+	</NationalPark>"
+
+</NationalParks>
+
